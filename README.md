@@ -9,7 +9,7 @@ NEW: Can also press the Up arrow to jump
 [space to shoot](https://awesomeedl.github.io/385-Five-Mechanics/Space-to-shoot)  
 NEW: Shoots two more bullets diagonally  
 
-[acceleration and rotation](https://awesomeedl.github.io/385-Five-Mechanics/accel-rotate)  
+[acceleration and rotation](https://awesomeedl.github.io/385-Five-Mechanics/accelerate-rotate)  
 NEW: Added maximum speed limit to the WASD controlled object (no friction)
 
 [camera shake](https://awesomeedl.github.io/385-Five-Mechanics/camera-shake)  
