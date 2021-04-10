@@ -10,7 +10,7 @@ NEW: Can also press the Up arrow to jump
 NEW: Shoots two more bullets diagonally  
 
 [acceleration and rotation](https://awesomeedl.github.io/385-Five-Mechanics/accelerate-rotate)  
-NEW: Added maximum speed limit to the WASD controlled object (no friction)
+NEW: Added maximum speed limit to the WASD controlled object (no friction), also played around with different speeds
 
 [camera shake](https://awesomeedl.github.io/385-Five-Mechanics/camera-shake)  
 NEW: Added two more buttons for stronger, and even mroe stronger shake
