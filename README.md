@@ -6,3 +6,7 @@ NEW: Can move diagonally with Q, E, Z, C
 [space to jump](https://awesomeedl.github.io/385-Five-Mechanics/Space-to-jump)  
 NEW: Can also press the Up arrow to jump  
 
+[space to shoot](https://awesomeedl.github.io/385-Five-Mechanics/Space-to-shoot)  
+NEW: Shoots two more bullets diagonally  
+
+
