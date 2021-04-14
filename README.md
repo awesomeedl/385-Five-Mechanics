@@ -1,6 +1,6 @@
 # 385-Five-Mechanics
 
-[wasd to move](https://awesomeedl.github.io/385-Projects/Five-mechanics/wasd)  
+[wasd to move](https://awesomeedl.github.io/385-Projects/Five-mechanics/wasd/)  
 NEW: Can move diagonally with Q, E, Z, C  
 
 [space to jump](https://awesomeedl.github.io/385-Projects/Five-mechanics/Space-to-jump)  
